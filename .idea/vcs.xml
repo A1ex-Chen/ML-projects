@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreNLP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Foundry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Mallet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/apollo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/deeplearning4j" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elki" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/grobid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jenetics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/knime-core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mahout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/moa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modernmt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/smile" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submarine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tablesaw" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vespa" vcs="Git" />
+  </component>
+</project>
