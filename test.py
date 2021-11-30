@@ -2,10 +2,11 @@ import pandas as pd
 import os
 import shutil
 
-files = pd.read_csv('/users/anshikageanra/desktop/lab/data/log_sample.csv')
+files = pd.read_csv('/users/anshikageanra/desktop/lab/data/log_vespa_sample.csv')
 new_path = '/Users/anshikageanra/PycharmProjects/ML-projects/sample/'
 
-file_path = files.iloc[:, 4]
+file_path = files.iloc[:, 3]
+print(file_path)
 # file = file_path[0].split('vcs/')
 # filename = file[-1].split('/')
 # dir = file[-1].split('/'+'{filename1}'.format(filename1=filename[-1]))
