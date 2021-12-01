@@ -2,7 +2,7 @@ import pandas as pd
 import os
 import shutil
 
-files = pd.read_csv('/users/anshikageanra/desktop/lab/data/withoutTest/log_vespa_withoutTest.csv')
+files = pd.read_csv('/users/anshikageanra/desktop/lab/data/withoutTest/log_deeplearning4j_withoutTest.csv')
 new_path = '/Users/anshikageanra/PycharmProjects/ML-projects/sample/'
 
 file_path = files.iloc[:, 2]
